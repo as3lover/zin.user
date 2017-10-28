@@ -1,0 +1,186 @@
+<resources>
+
+
+    <string name="signup_fullname_edt">Adı ve Soyadı</string>
+
+
+    <string name="valid_sms_edt">Onaylama kodu</string>
+    <string name="valid_sms_submit">Gönderme</string>
+
+    <string name="loading_sms_title">Lütfen sabırlı olun</string>
+    <string name="loading_sms_login">Giriş halınde…</string>
+    <string name="error_in_progress">İşlem başarısız oldu</string>
+    <string name="enter_phone_number">Telefon numaranızı girin</string>
+    <string name="enter_name">Ad ve soyadınızı girin</string>
+    <string name="failure_general">Bir sorun var, yeniden deneyin</string>
+    <string name="app_name">Zin</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="input_app_phonenumber">Telefen numara</string>
+    <string name="title_app_password">Giriş kodu</string>
+    <string name="title_app_signin">Giriş</string>
+    <string name="navigation_drawer_open">open drawer</string>
+    <string name="navigation_drawer_close">main</string>
+    <string name="request_service">Hizmet talebi</string>
+    <string name="nav_profile">Profil</string>
+    <string name="showtrips">Seyahatların gösterilmesi</string>
+    <string name="messages" >Mesajlar</string>
+    <string name="credits">Kredi</string>
+    <string name="setting" >Ayarlama</string>
+    <string name="support">Destekleme</string>
+    <string name="remaining_credits" >Geri kalan kredi</string>
+    <string name="increase_credits">Kredi artması</string>
+    <string name="select_language">Dil seçmesi</string>
+    <string name="enable_location_desc">Cep telefonunuzun pozisyon belirtme sistemi aktif değil, lütfen programı kullanmak için bu sistemi aktif halıne getirin.</string>
+    <string name="enabl_location_title" >Pozisyon aktifleştirilmesi</string>
+    <string name="enable_location_submit">Pozisyon aktifleştirilmesi</string>
+    <string name="cancel">Boş vermek</string>
+    <string name="title_app_signup">Kaydolma</string>
+    <string name="title_app_signup_easy">Rahatca kaydolun</string>
+    <string name="signup_name_edt">Ad</string>
+    <string name="signup_lastname_edt">Soyad</string>
+    <string name="sms_not_recieved">Acaba onaylama mesajini almadınız?</string>
+    <string name="forget_password">Giriş kodunu unuttunuz mu?</string>
+    <string name="input_start_point">Menşe adresi seçiniz</string>
+    <string name="enter_password">Giriş kodunu girin</string>
+    <string name="input_end_point" >Giriş kodunu girin</string>
+    <string name="submit_starting_point">Menşe noktanın onaylaması</string>
+    <string name="submit_ending_point">Hedef noktanın onaylaması</string>
+    <string name="service_type_lable">Hizmet türü</string>
+    <string name="request_password" >Şifre talebi</string>
+    <string name="valid_identity">Kimlik bilgileri denetmek</string>
+    <string name="enter_validity_code">Kimlik bilgileri denetim kodunu girin</string>
+    <string name="enter_new_password">Kimlik bilgileri denetim kodunu girin</string>
+    <string name="submit_account">Kullanma hesabın onaylaması</string>
+    <string name="service_attr_lable">Servis hizmetleri</string>
+    <string name="service_vehicle_lable">Araba türü</string>
+    <string name="start_point_txt">Menşe nokta</string>
+    <string name="time_lable">Dakika</string>
+    <string name="distance_lable">Km</string>
+    <string name="price_lable">Tuman</string>
+    <string name="how_much_charge">Ne kadar yuklemek istiyörsünüz</string>
+    <string name="choose_start_point">Menşe noktayı belirtin</string>
+    <string name="submit_trip">Seyahatın onaylanması</string>
+    <string name="success_wait_for_call">Sizin isteğiniz başarıyla gönderildi </string>
+    <string name="choose_end_point">Hedef noktayı belirtin</string>
+    <string name="submit_changes">Bildirmek</string>
+    <string name="subscribe_email">Haber dergisinde üye olmak</string>
+    <string name="subscribe_messages">Mesajları almak</string>
+    <string name="pride">Pride</string>
+    <string name="peogeot405">Peugeot 405</string>
+    <string name="peogeotrd">Peugeot RD</string>
+    <string name="peogeotpars">Peugeot PARS</string>
+    <string name="zantia">Xantia</string>
+    <string name="rio">Rio</string>
+    <string name="tiba">Tiba</string>
+    <string name="kia">Kia</string>
+    <string name="hyundai" >Hyundai</string>ُ
+    <string name="benz">Benz</string>
+    <string name="bmw">BMW</string>
+    <string name="hues">Hayes</string>
+    <string name="van">Van</string>
+    <string name="minibus">Minibüs</string>
+    <string name="normal">Normal</string>
+    <string name="lux">Formalite</string>
+    <string name="child">Çocuk</string>
+    <string name="womans">Kadın</string>
+    <string name="cooler">Klima</string>
+    <string name="sound_system">Müzik sistemi</string>
+    <string name="video_system">Görüntü sistemi</string>
+    <string name="sport">Sport</string>
+
+    <string name="exit_message">Çıkış yapmak için lütfen tekrar çıkış düğmesine basın.</string>
+    <string name="enter_valid_date">Tarih formatı doğru değil</string>
+    <string name="no_internet_connection">Internet bağlıntısı yok</string>
+    <string name="trips_header">Seyahatlar</string>
+    <string name="fav_trips">Seçilen mekanlar</string>
+    <string name="unnamed_road">Adı olmayan mekan</string>
+    <string name="do_you_want_to_signout">Acaba kendi kullanıcı hesabınızdan çıkmak Acaba kendi kullanıcı hesabınızdan çıkmak</string>
+    <string name="yes">Evet</string>
+    <string name="no">Hayır</string>
+    <string name="agency_name">Yönetim bölümü :</string>
+    <string name="agency_address">Adres :</string>
+    <string name="agency_tel">Telefon numarası :</string>
+    <string name="ServerError">Bir sorun var, lütfen tekrar deneyin.</string>
+    <string name="peogeot206">Peugeot 206</string>
+    <string name="trip">Defa</string>
+    <string name="unnamed_road4">Adı olmayan mekan</string>
+
+
+    //-------------------------------------Errors---------------------------------------------------
+    <string name="Error">Hata</string>
+    <string name="DbValidationError">مشکلی پیش آمده، لطفا دوباره امتحان کنید</string>
+
+    <string name="InvalidUserId">مشکلی پیش آمده، لطفا دوباره امتحان کنید</string>
+    <string name="InvalidUserModel">مشکلی پیش آمده، لطفا دوباره امتحان کنید</string>
+    <string name="InvalidUserPassword">مشکلی پیش آمده، لطفا دوباره امتحان کنید</string>
+    <string name="InvalidUserMobile">مشکلی پیش آمده، لطفا دوباره امتحان کنید</string>
+    <string name="DeviceIdIsRegistere">مشکلی پیش آمده، لطفا دوباره امتحان کنید</string>
+
+    <string name="CanNotDeleteAddress">مشکلی پیش آمده، لطفا دوباره امتحان کنید</string>
+    <string name="AddressYouDoNotOwn">مشکلی پیش آمده، لطفا دوباره امتحان کنید</string>
+    <string name="CityNameWrong">مشکلی پیش آمده، لطفا دوباره امتحان کنید</string>
+    <string name="StateNameWrong">مشکلی پیش آمده، لطفا دوباره امتحان کنید</string>
+    <string name="CountryNameWrong">مشکلی پیش آمده، لطفا دوباره امتحان کنید</string>
+    <string name="AddressNoNotBeNull">مشکلی پیش آمده، لطفا دوباره امتحان کنید</string>
+    <string name="PostalCodeCannotBeNull">مشکلی پیش آمده، لطفا دوباره امتحان کنید</string>
+    <string name="PostalCodeMustBe10Digits">مشکلی پیش آمده، لطفا دوباره امتحان کنید</string>
+
+    <string name="CategoryIsActive">مشکلی پیش آمده، لطفا دوباره امتحان کنید</string>
+    <string name="CategoryIsDeActive">مشکلی پیش آمده، لطفا دوباره امتحان کنید</string>
+
+    <string name="InvalidSupportId">مشکلی پیش آمده، لطفا دوباره امتحان کنید</string>
+    <string name="SupportTicketIdStatusIsClose">مشکلی پیش آمده، لطفا دوباره امتحان کنید</string>
+
+    <string name="InvalidOrderId">مشکلی پیش آمده، لطفا دوباره امتحان کنید</string>
+    <string name="OrderIsNotOwnedByUser">مشکلی پیش آمده، لطفا دوباره امتحان کنید</string>
+    <string name="NotEnoughItem">مشکلی پیش آمده، لطفا دوباره امتحان کنید</string>
+
+    <string name="NotEnoughMoney">مشکلی پیش آمده، لطفا دوباره امتحان کنید</string>
+    <string name="WalletAllReadyCharge">مشکلی پیش آمده، لطفا دوباره امتحان کنید</string>
+    <string name="gender_male">Erkek</string>
+    <string name="gender_famele">Kadın</string>
+    <string name="fetching_location">Konumunu almakta</string>
+    <string name="is_service_good">Sürücü tarafından verilen hizmetlerden ne kadar memnun musunuz?</string>
+    <string name="send">Göndermek</string>
+    <string name="rating">Yorum yapmak</string>
+    <string name="wait_for_sms">Yeni şifre kısa mesaj yoluyla size gönderilecektir.</string>
+    <string name="welcome_to_zin">Zin sistemine hoşgeldiniz</string>
+    <string name="no_service_availible">Şu anda size yakın bir servis hizmeti bulunamıyor</string>
+    <string name="service_system_has_problem">Malesef sizin isteğiniz kayıtlanmadı. Tekrar deneyin.</string>
+    <string name="error_in_signup">مشکلی در روند ثبت نام به وجود امده. مجددا تلاش کنید</string>
+    <string name="tomans">تومان</string>
+    <string name="estimate_price">محاسبه قیمت</string>
+    <string name="enter_your_pin">رمز عبور خود را وارد کنید</string>
+    <string name="cancel_service">لغو سرویس</string>
+    <string name="active_services">سرویس های فعال</string>
+    <string name="use_pin_input">استفاده از فقل صفحه</string>
+    <string name="input_your_first_code">کد مورد نظر خود را وارد کنید</string>
+    <string name="pins_not_equal">کد با مقدار وارد برابر نیست</string>
+    <string name="do_not_use_pin">حذف قفل ورود به برنامه</string>
+    <string name="cash">نقدی</string>
+    <string name="choose_number_ofservices">تعداد سرویسهای مورد نیازتان را انخاب کنید</string>
+    <string name="input_your_second_code">Enter your pin again</string>
+
+    <string name="online">آنلاین</string>
+    <string name="wallet">کیف پول</string>
+    <string name="how_to_pay">روش پرداخت</string>
+    <string name="no_active_service">در حال حاضر  شما هیچ سرویسی درخواست نکرده اید</string>
+    <string name="fav_pos_saved">مکان به بخش مکان های مورد علافه افزوده شد</string>
+    <string name="enter_location_lable">عنوان مکان مورد نظرتان را وارد کنید</string>
+    <string name="title">عنوان</string>
+    <string name="submit">ثبت</string>
+    <string name="edit_Profile_done">اطلاعات به درستی تغییر یافت</string>
+    <string name="hello">وقت بخیر</string>
+    <string name="persian">فارسی</string>
+    <string name="english">english</string>
+    <string name="turkish">Türkçe</string>
+    <string name="zin_services">خدمات زین</string>
+    <string name="this_service_is_not_avalible">این سرویس در حال توسعه می باشد</string>
+    <string name="backup_tel">تلفن تماس پشتیبانی</string>
+    <string name="arabic">العربية</string>
+    <string name="driver_name">Drivers name :</string>
+    <string name="car_model">Car Model :</string>
+    <string name="car_number">Car number :</string>
+    <string name="version">version</string>
+    <string name="number_of_services">number of available</string>
+</resources>

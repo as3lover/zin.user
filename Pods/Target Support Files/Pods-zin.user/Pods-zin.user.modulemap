@@ -1,0 +1,6 @@
+framework module Pods_zin_user {
+  umbrella header "Pods-zin.user-umbrella.h"
+
+  export *
+  module * { export * }
+}

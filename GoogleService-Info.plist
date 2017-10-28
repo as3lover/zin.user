@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>969026500276-k49oilrk5fd3j8l7vsgsam1ji5qm269v.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.969026500276-k49oilrk5fd3j8l7vsgsam1ji5qm269v</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBzxuqcm8g0xhDO5J98UDD0NLZUu-KCAko</string>
+	<key>GCM_SENDER_ID</key>
+	<string>969026500276</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ir.pasys.zin.user</string>
+	<key>PROJECT_ID</key>
+	<string>stellar-state-157010</string>
+	<key>STORAGE_BUCKET</key>
+	<string>stellar-state-157010.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:969026500276:ios:be8f5cdb4276cb5b</string>
+	<key>DATABASE_URL</key>
+	<string>https://stellar-state-157010.firebaseio.com</string>
+</dict>
+</plist>
